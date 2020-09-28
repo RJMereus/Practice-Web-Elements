@@ -1,0 +1,31 @@
+li {
+  background-color: #02fa02;
+  padding: 5px 10px;
+}
+
+.list-inside li {
+  list-style-position: inside;
+}
+
+h1, p {
+  text-align: center;
+}
+
+hr {
+  width: 420px;
+	height: 32px;
+	border: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+	background-image: url("images/divider.png");
+}
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: green;  }
+a:visited { color: #1a4e1a;   }
+a:hover   { color: #02fa02; }
+a:active  { color: #49994de0;  }
